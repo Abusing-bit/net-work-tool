@@ -1,5 +1,5 @@
 @echo off
-title N⃟E⃟T⃟W⃟O⃟R⃟K⃟-H⃟Q⃟- Darkency 
+title N⃟E⃟T⃟W⃟O⃟R⃟K⃟-H⃟Q⃟-Darkency 
 mode 75, 30
 chcp 65001 >nul
 call powershell exit >nul
